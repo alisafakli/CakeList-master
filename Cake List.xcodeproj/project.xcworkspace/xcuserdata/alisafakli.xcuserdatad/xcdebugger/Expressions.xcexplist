@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MasterViewController tableView:numberOfRowsInSection:]:MasterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.objects.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__43-[APIManager downloadImage:withCompletion:]_block_invoke:APIManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__31-[MasterViewController getData]_block_invoke:MasterViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
